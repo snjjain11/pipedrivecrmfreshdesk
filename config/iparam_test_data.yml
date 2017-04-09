@@ -1,0 +1,5 @@
+api_key:
+  display_name: "API Key"
+  description: "d0810c37c940f0b575a85f35d42f423431d881d0"
+  type: "text"
+  required: true
